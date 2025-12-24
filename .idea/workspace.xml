@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="904fd376-1d4e-46f5-b43b-d425d7ebbdd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AdventofCode2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/Day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/day1_pt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/day1_pt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/Day2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/src/day2_pt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/src/day2_pt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/Day3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day1/day1_pt1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day1/day1_pt2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day2/day2_pt1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day2/day2_pt2.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="37IS7sDp1tb8VSZOAtv0FG2xjE2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/hyunjicho/IdeaProjects/AdventofCode2025/Day2/src/day2_pt2.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day1" />
+      <recent name="$PROJECT_DIR$/Day1/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.day2_pt2">
+    <configuration name="day1_pt1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1_pt1" />
+      <module name="Day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day1_pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1_pt2" />
+      <module name="Day1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day2_pt1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_pt1" />
+      <module name="Day2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day2_pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_pt2" />
+      <module name="Day2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.day2_pt2" />
+        <item itemvalue="Application.day2_pt1" />
+        <item itemvalue="Application.day1_pt2" />
+        <item itemvalue="Application.day1_pt1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="904fd376-1d4e-46f5-b43b-d425d7ebbdd4" name="Changes" comment="" />
+      <created>1766588933998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766588933998</updated>
+      <workItem from="1766588935474" duration="4672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day2/src/day2_pt2.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AdventofCode2025$day1_pt2.ic" NAME="day1_pt2 Coverage Results" MODIFIED="1766591344572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
